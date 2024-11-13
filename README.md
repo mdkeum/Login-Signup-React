@@ -10,4 +10,4 @@
 - **User Feedback**: The app provides feedback to the user during the form submission process.
 
 ## Project Structure
-login-signup-react/ │ ├── src/ │ ├── components/ │ │ ├── LoginForm.js # Login form component │ │ ├── SignupForm.js # Signup form component │ │ └── ErrorMessage.js # Component to display error messages │ ├── App.js # Main component where the app is rendered │ ├── index.js # Entry point for the React app │ └── styles.css # Basic CSS file for styling │ ├── public/ │ └── index.html # HTML template file │ ├── package.json # Project dependencies and scripts └── README.md # Project documentation (this file)
+Login-Signup-React/ │ ├── src/ │ ├── components/ │ │ ├── LoginForm.js # Login form component │ │ ├── SignupForm.js # Signup form component │ │ └── ErrorMessage.js # Component to display error messages │ ├── App.js # Main component where the app is rendered │ ├── index.js # Entry point for the React app │ └── styles.css # Basic CSS file for styling │ ├── public/ │ └── index.html # HTML template file │ ├── package.json # Project dependencies and scripts └── README.md # Project documentation (this file)
